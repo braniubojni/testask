@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+.App__addTask {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.taskInput {
+  margin: 5%;
+}
 
 @keyframes App-logo-spin {
   from {
